@@ -29,7 +29,7 @@ url: "https://nourijp.github.io/chihaya"
 # Site navigation - each item must have a title and a url.
 navigation:
 - text: Home
-  url: /
+  url: /chihaya
 - text: About
   url: /about/
 - text: Style Guide
