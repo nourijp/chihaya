@@ -29,7 +29,7 @@ url: "https://nourijp.github.io/chihaya"
 # Site navigation - each item must have a title and a url.
 navigation:
 - text: Home
-  url: /chihaya
+  url: /
 - text: About
   url: /about/
 - text: Style Guide
@@ -41,10 +41,10 @@ navigation:
 disqus: bankauskas
 
 # Author information - author info at the bottom of the post
-author_name: "Nouri"
+author_name: "能理"
 author_bio: "My name is John Doe. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 6 years."
 author_url: "http://nouri.jp"
-author_location: "Vilnius, Lithuania"
+author_location: "東京, 日本"
 author_image: authorimage.jpg
 
 # Footer ad banner
