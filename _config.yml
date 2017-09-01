@@ -41,28 +41,28 @@ navigation:
 disqus: bankauskas
 
 # Author information - author info at the bottom of the post
-author_name: "John Doe"
+author_name: "Nouri"
 author_bio: "My name is John Doe. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 6 years."
-author_url: "http://justgoodthemes.com"
+author_url: "http://nouri.jp"
 author_location: "Vilnius, Lithuania"
 author_image: authorimage.jpg
 
 # Footer ad banner
-banner_url: "https://justgoodthemes.com/"
+banner_url: "https://nouri.jp"
 banner_image: banner.jpg
 
 # Footer newsletter widget - add your form action url for MailChimp signup form here
 mailchimp_url: "//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117"
 
 # Social links in the site footer
-twitter_username: "username"
-facebook_username: "username"
+twitter_username: "nouri_jp"
+facebook_username: "nourijp"
 googleplus_username: "+username"
-github_username: "username"
+github_username: "nourijp"
 codepen_username: "username"
 dribbble_username: "username"
-medium_username: "@username"
-instagram_username: "username"
+medium_username: "@nourijp"
+instagram_username: "nouri.jp"
 pinterest_username: "username"
 linkedin_username: "username"
 
