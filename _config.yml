@@ -18,13 +18,13 @@ description: "BlogBox is a bold theme for the Jekyll blogging platform. Availabl
 tagline: "Tales of a digital nomad."
 
 # The subpath of your site, e.g. /blog, for generating urls
-baseurl: "/chihaya"
+baseurl: ""
 
 sass:
   sass_dir: _sass
 
 # The base hostname & protocol of your site for where absolute urls are needed
-url: "https://nourijp.github.io/"
+url: "https://nourijp.github.io/chihaya"
 
 # Site navigation - each item must have a title and a url.
 navigation:
