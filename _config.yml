@@ -31,11 +31,11 @@ navigation:
 - text: Home
   url: /
 - text: About
-  url: /about/
+  url: /chihaya/about/
 - text: Style Guide
-  url: /style-guide/
+  url: /chihaya/style-guide/
 - text: Archives
-  url: /tags/
+  url: /chihaya/tags/
 
 # The shortname for your Disqus site to enable comments.
 disqus: bankauskas
