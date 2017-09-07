@@ -8,7 +8,7 @@ tags: [iran, food, top 10]
 
 <a href="https://en.wikipedia.org/wiki/Grand_Canyon">**The Grand Canyon**</a> is a steep-sided canyon carved by the Colorado River in the state of Arizona in the United States. It is contained within and managed by Grand Canyon National Park, the Kaibab National Forest, Grand Canyon-Parashant National Monument, the Hualapai Tribal Nation, the Havasupai people and the Navajo Nation. President Theodore Roosevelt was a major proponent of preservation of the Grand Canyon area, and visited it on numerous occasions to hunt and enjoy the scenery.
 
-<iframe src="https://player.vimeo.com/video/232784732" width="720" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 
 <iframe src="https://player.vimeo.com/video/232784732" width="1280" height="720" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
