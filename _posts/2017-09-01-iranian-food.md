@@ -13,6 +13,7 @@ The Grand Canyon is 277 miles *(446 km)* long, up to 18 miles *(29 km)* wide and
 <!--more-->
 
 {% include image_full.html imageurl="/images/posts/kebabs.jpg" title="Apple" caption="Kebabs" %}
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6-ATClcqQoM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 For thousands of years, the area has been continuously inhabited by Native Americans, who built settlements within the canyon and its many caves. The Pueblo people considered the Grand Canyon a holy site, and made pilgrimages to it. The first European known to have viewed the Grand Canyon was García López de Cárdenas from Spain, who arrived in 1540.
 
