@@ -5,7 +5,7 @@ description: An optional about page for BlogBox Jekyll theme
 featured_image: aboutPage.jpg
 ---
 
-My name is John Doe. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 5 years.
+My name is H. Nouri. I’m a full-time Sensei in Tokyo.
 
 Welcome to my blog and I absolutely appreciate you stopping by! On December 25th, 2001, I left the Canada for a four months, trip to Asia. The idea was to backpack around China, Thailand, Vietnam and Cambodia and then return home and start a career in the IT industry.
 
