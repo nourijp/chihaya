@@ -8,12 +8,14 @@ tags: [iran, food, top 10]
 
 <a href="https://en.wikipedia.org/wiki/Grand_Canyon">**The Grand Canyon**</a> is a steep-sided canyon carved by the Colorado River in the state of Arizona in the United States. It is contained within and managed by Grand Canyon National Park, the Kaibab National Forest, Grand Canyon-Parashant National Monument, the Hualapai Tribal Nation, the Havasupai people and the Navajo Nation. President Theodore Roosevelt was a major proponent of preservation of the Grand Canyon area, and visited it on numerous occasions to hunt and enjoy the scenery.
 
+<iframe src="https://player.vimeo.com/video/232784732" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 The Grand Canyon is 277 miles *(446 km)* long, up to 18 miles *(29 km)* wide and attains a depth of over a mile *(6,093 feet or 1,857 meters)*. Nearly two billion years of Earth's geological history have been exposed as the Colorado River and its tributaries cut their channels through layer after layer of rock while the Colorado Plateau was uplifted. While some aspects about the history of incision of the canyon are debated by geologists, several recent studies support the hypothesis that the Colorado River established its course through the area about 5 to 6 million years ago. Since that time, the <a href="https://en.wikipedia.org/wiki/Colorado_River">Colorado River</a> has driven the down-cutting of the tributaries and retreat of the cliffs, simultaneously deepening and widening the canyon.
 
 <!--more-->
 
 {% include image_full.html imageurl="/images/posts/kebabs.jpg" title="Apple" caption="Kebabs" %}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6-ATClcqQoM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 
 For thousands of years, the area has been continuously inhabited by Native Americans, who built settlements within the canyon and its many caves. The Pueblo people considered the Grand Canyon a holy site, and made pilgrimages to it. The first European known to have viewed the Grand Canyon was García López de Cárdenas from Spain, who arrived in 1540.
 
