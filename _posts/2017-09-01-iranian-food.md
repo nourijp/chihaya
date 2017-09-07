@@ -2,7 +2,7 @@
 layout: post
 title:  "Iranian Food"
 date:   2017-09-01
-featured_image: grand-canyon.jpg
+featured_image: kebabs.jpg
 tags: [iran, food, top 10]
 ---
 
