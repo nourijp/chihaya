@@ -2,7 +2,7 @@
 layout: page
 title: About this blog
 description: An optional about page for BlogBox Jekyll theme
-featured_image: drDuck.jpg
+featured_image: aboutPage.jpg
 ---
 
 My name is John Doe. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 5 years.
