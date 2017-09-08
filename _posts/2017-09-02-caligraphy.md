@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fuad Koichi Honda"
+title:  "Arabic Caligraphy & Fuad Koichi Honda"
 date:   2017-09-02
 featured_image: caligraphy1.jpg
 tags: [art, caligraphy, Arabic, Japanese]
