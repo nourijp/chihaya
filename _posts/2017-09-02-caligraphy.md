@@ -17,3 +17,7 @@ Fuad Kouichi Honda is a contemporary visual artist who was born in 1946. Several
 FuadKoichiHonda.jpeg" title="" caption="" %}
 
 {% include image_full.html imageurl="/images/posts/caligraphy2.Jpeg" title="" caption="" %}
+
+{% include image_full.html imageurl="/images/posts/caligraphy3.Jpeg" title="" caption="" %}
+
+{% include image_full.html imageurl="/images/posts/caligraphy4.Jpeg" title="" caption="" %}
