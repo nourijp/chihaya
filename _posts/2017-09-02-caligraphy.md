@@ -2,7 +2,7 @@
 layout: post
 title:  "Fuad Koichi Honda"
 date:   2017-09-02
-featured_image: FuadKoichiHonda.jpg
+featured_image: FuadKoichiHonda.jpeg
 tags: [art, caligraphy, Arabic, Japanese]
 ---
 Fuad Kouichi Honda is a contemporary visual artist who was born in 1946. Several works by the artist have been sold at auction, including 'Surah Luqman' sold at Christie's Dubai 'Modern & Contemporary Arab, Iranian and Turkish Art Part II' in 2012 for $56,250. There have been many articles about Fuad Kouichi Honda, including '' written for in .
