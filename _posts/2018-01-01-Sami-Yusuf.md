@@ -21,14 +21,14 @@ SamiYusuf1.jpeg" title="" caption="" %}
 
 Here are a list of some other noteworthy songs of his: 
 
-<ul><li>1) Forgotten Promisses</li>
-<li>2) You Came to Me</li>
-<li>3) It's a game</li>
-<li>4) In every Tear, He is there</li>
-<li>5) Make Me Strong</li>
-<li>6) Healing</li>
-<li>7) Jaaneh Jaanaan</li>
-<li>8) I'm Your Hope</li>
-<li>9) Mother</li>
-<li>10) Whereeve You Are</li>
-<li>11) Khorasan</li></ul>
+<ul><li> Forgotten Promisses</li>
+<li> You Came to Me</li>
+<li> It's a game</li>
+<li> In every Tear, He is there</li>
+<li> Make Me Strong</li>
+<li> Healing</li>
+<li> Jaaneh Jaanaan</li>
+<li> I'm Your Hope</li>
+<li> Mother</li>
+<li> Whereeve You Are</li>
+<li> Khorasan</li></ul>
