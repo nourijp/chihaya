@@ -21,8 +21,8 @@ SamiYusuf1.jpeg" title="" caption="" %}
 
 Here are a list of some other noteworthy songs of his: 
 
-<ul><li> [Forgotten Promisses](https://www.youtube.com/watch?v=FKV2oeS4vw8)</li>
-<li> You Came to Me</li>
+<ul><li> <a href="https://www.youtube.com/watch?v=FKV2oeS4vw8"> Forgotten Promisses</a></li>
+  <li> <a href="https://www.youtube.com/watch?v=kHl_TihFnS8">You Came to Me</a></li>
 <li> It's a game</li>
 <li> In every Tear, He is there</li>
 <li> Make Me Strong</li>
