@@ -10,7 +10,7 @@ In recognition of his humanitarian work, in 2014 Yusuf was appointed United Nati
 
 Below you can watch / listen to one of his songs (Healing).
 
-<iframe src="https://player.vimeo.com/video/232925437" width="1280" height="720" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Tug63dI4MEY?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 <!--more-->
