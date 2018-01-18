@@ -23,12 +23,12 @@ Here are a list of some other noteworthy songs of his:
 
 <ul><li> <a href="https://www.youtube.com/watch?v=FKV2oeS4vw8"> Forgotten Promisses</a></li>
   <li> <a href="https://www.youtube.com/watch?v=kHl_TihFnS8">You Came to Me</a></li>
-<li> It's a game</li>
-<li> In every Tear, He is there</li>
-<li> Make Me Strong</li>
-<li> Healing</li>
-<li> Jaaneh Jaanaan</li>
-<li> I'm Your Hope</li>
-<li> Mother</li>
-<li> Whereeve You Are</li>
-<li> Khorasan</li></ul>
+  <li> <a href="https://www.youtube.com/watch?v=ZE84QwZpho4">It's a game</a></li>
+  <li> <a href="https://www.youtube.com/watch?v=WYs-QXjFcvQ">In every Tear, He is there</a></li>
+  <li> <a href="https://www.youtube.com/watch?v=i3lqPUbYyTM">Make Me Strong</a></li>
+  <li> <a href="https://www.youtube.com/watch?v=aDHAKFwtiMQ">Healing</a></li>
+  <li> <a href="https://www.youtube.com/watch?v=xHnnWsym7B0">Jaaneh Jaanaan</a></li>
+  <li> <a href="https://www.youtube.com/watch?v=EDdedgGSfQs">I'm Your Hope</a></li>
+  <li> <a href="https://www.youtube.com/watch?v=sbKolBBK2z4">Mother</a></li>
+  <li> <a href="https://www.youtube.com/watch?v=NHloe1_t-1o">Whereeve You Are</a></li>
+  <li> <a href="https://www.youtube.com/watch?v=_yBEtIyL1hQ">Khorasan</a></li></ul>
