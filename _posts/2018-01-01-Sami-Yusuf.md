@@ -21,7 +21,7 @@ SamiYusuf1.jpeg" title="" caption="" %}
 
 Here are a list of some other noteworthy songs of his: 
 
-<li>1) Forgotten Promisses</li>
+<ul><li>1) Forgotten Promisses</li>
 <li>2) You Came to Me</li>
 <li>3) It's a game</li>
 <li>4) In every Tear, He is there</li>
@@ -31,4 +31,4 @@ Here are a list of some other noteworthy songs of his:
 <li>8) I'm Your Hope</li>
 <li>9) Mother</li>
 <li>10) Whereeve You Are</li>
-<li>11) Khorasan</li>
+<li>11) Khorasan</li></ul>
