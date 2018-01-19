@@ -18,7 +18,7 @@ In recognition of his humanitarian work, in 2014 Yusuf was appointed United Nati
 
 {% include image_full.html imageurl="/images/posts/SamiYusuf1.jpg" title="" caption="" %}
 
-<h3>Here are a list of some other noteworthy songs by Sami Yusuf </h3>(Click on the links to watch the videos): 
+<h4>Here are a list of some other noteworthy songs by Sami Yusuf (Click on the links to watch the videos): </h4>
 
 <ul><li> <a href="https://www.youtube.com/watch?v=FKV2oeS4vw8"> Forgotten Promisses</a></li>
   <li> <a href="https://www.youtube.com/watch?v=kHl_TihFnS8">You Came to Me</a></li>
