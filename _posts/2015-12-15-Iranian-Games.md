@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Traditional Iranian Games"
-date:   2017-12-15
+date:   2015-12-15
 featured_image: IranianGames.jpg
 tags: [Games, Traditional, Iranian, Farsi, Persian, Iran, Childrem, Sports]
 ---
@@ -10,13 +10,13 @@ There are a variety of traditional Iranian Games.  Some go back thousands of yea
 <h3>First we have, Ye Ghol Do ghol</h3>
 Ye Ghol Do ghol is a traditional game played with rocks.  
 
-{% include image_full.html imageurl="/images/posts/yegholdoghol.jpg" title="" caption="" %}
+{% include image_full.html imageurl="/images/posts/yegholdoghol1.jpg" title="" caption="" %}
 
 
 <!--more-->
 
 
-{% include image_full.html imageurl="/images/posts/yegholdoghol1.jpg" title="" caption="" %}
+{% include image_full.html imageurl="/images/posts/yegholdoghol.jpg" title="" caption="" %}
 
 
 
