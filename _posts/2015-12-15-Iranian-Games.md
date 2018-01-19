@@ -16,7 +16,7 @@ Ye Ghol Do ghol is a traditional game played with rocks.
 <!--more-->
 
 
-{% include image_full.html imageurl="/images/posts/yegholdoghol.jpg" title="" caption="" %}
+{% include image_full.html imageurl="/images/posts/yegholdoghol1.jpg" title="" caption="" %}
 
 
 
