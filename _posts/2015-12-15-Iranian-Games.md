@@ -16,7 +16,26 @@ Ye Ghol Do ghol is a traditional game played with rocks.
 <!--more-->
 
 
-<h3>Next, we have....</h3>
+<h3>Next, we have <i>Estop Havai</i></h3>
+
+{% include image_full.html imageurl="/images/posts/estop-havai.jpg" title="" caption="" %}
+
+<h3>Alak Dolak</h3>
+
+{% include image_full.html imageurl="/images/posts/alak-dolak.jpg" title="" caption="" %}
+
+<h3>7 sang / 7 stones</h3>
+
+{% include image_full.html imageurl="/images/posts/7sang.jpg" title="" caption="" %}
+
+<h3>Vasati (The middle)</h3>
+
+{% include image_full.html imageurl="/images/posts/vasati.jpg" title="" caption="" %}
+
+<h3>Any many many more</h3>
+Take a look at these drawings and try to guess what these games are about.
+{% include image_full.html imageurl="/images/posts/IranianGames-more.jpg" title="" caption="" %}
+
 
 
 
