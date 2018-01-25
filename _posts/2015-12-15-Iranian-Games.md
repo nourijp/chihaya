@@ -12,6 +12,25 @@ There are a variety of traditional Iranian Games.  Some go back thousands of yea
 
 Ye Ghol Do ghol is a traditional game played with rocks.  
 
+The play is also known as Panj Panj, Besh Dash and Rag-Rag Bazi. Children play the game by turn and the rest observe and evaluate the player.
+
+With throwing five stones in the air at the same time, the player should control the flying stones to drop at the back of his/her hand. 
+ 
+Then, throwing them again in the air at the same time, he/she should be able to catch them, with the same hand (that has played). 
+ 
+The game is started with yek ghol (one stone) and reaches five ghol (five stones). If no one has a foul, the game is repeated and after each turn, the scores will be added to the previous amount. 
+ 
+In the beginning or the game, five stones will be thrown on the ground while the players sit in a circle. 
+ 
+The player, choosing one stone, throw it up in the air and in the interval of its falling down, he or she must take another stone and this is repeated until all the stones are collected.
+
+The play continues and in each stage, the player chooses one stone and whilst throwing it in the air, he or she has to pick up one more stone in comparison to the previous stage and then catch the stone that has been throw up.
+ 
+In the end, the player, by throwing five stones in the air at the same time, must at first control as many of them as possible on the back of his/her hand and then by throwing all of them in the air, the player should catch all of them by the same hand. 
+ 
+For some people each stone represents an opportunity which, if one is not careful, will pass by.
+
+(source: yjc.ir)
 
 
 
