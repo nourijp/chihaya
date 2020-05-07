@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sami Yusuf"
-date:   2018-01-01
+date:   2020-04-01
 featured_image: SamiYusuf.jpg
 tags: [music, English, Arabic, Turkish, Farsi]
 ---
