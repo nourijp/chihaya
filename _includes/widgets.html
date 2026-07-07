@@ -40,9 +40,9 @@
                         {% for post in site.posts limit:3 %}
                             <li>
                                 {% if post.featured_image %}
-                                <a href="{{ site.baseurl }}{{ post.url}}" class="post-thumb" style="background-image: url({{ "/images/posts/" | append: post.featured_image | prepend: site.baseurl }});"></a>
+                                <a href="{{ post.url}}" class="post-thumb" style="background-image: url({{ "/images/posts/" | append: post.featured_image  }});"></a>
                                 {% endif %}
-                                <div class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></div>
+                                <div class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></div>
                                 <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
                             </li>
                         {% endfor %}
@@ -58,7 +58,7 @@
                         <h2 class="widget-title">Tags</h2>
                         <div class="tagcloud">
                             {% for tag in sortedTags %}
-                            <a href="{{ site.baseurl }}/tags/#{{ tag | cgi_escape }}">{{ tag }}</a>
+                            <a href="/tags/#{{ tag | cgi_escape }}">{{ tag }}</a>
                             {% endfor %}
                         </div><!-- .tagcloud -->
                     </section><!-- .widget -->
